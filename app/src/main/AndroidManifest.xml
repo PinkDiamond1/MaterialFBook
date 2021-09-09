@@ -4,7 +4,7 @@
     android:installLocation="auto">
 
     <application
-        android:name=".MFB"
+        android:name=".bitcoin"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:hardwareAccelerated="true"
